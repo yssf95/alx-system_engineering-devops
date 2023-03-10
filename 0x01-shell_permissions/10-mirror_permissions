@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 chmod --reference=olleh hello
+=======
+#!/
+chmod --reference=olleh helloh
+>>>>>>> 7c11d93 (ggg)
